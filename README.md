@@ -179,6 +179,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Creative & Media
 
+- [AI Chili](https://github.com/AI-Chili/aichili/tree/main/skills/aichili) - Generate 15s-30s cinematic AI videos and lip-synced talking avatars across 5 engines (`h3-vdn`, `wan3.0-video`, `seedance-2.5`, `minimax-h3-gmi`, `avatar-talk`), run $0 dry-run credit quotes, and estimate PAYG costs via CLI or MCP (`@aichili/mcp` and `https://aichili.ai/mcp`). *By [@AI-Chili](https://github.com/AI-Chili)*
 - [anydesign](https://github.com/uxKero/anydesign) - Analyzes any image, URL, or Figma file and generates a structured `design.md` with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. *By [@uxKero](https://github.com/uxKero)*
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
